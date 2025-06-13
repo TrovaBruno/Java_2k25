@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compilar e Executar",
+      "type": "shell",
+      "command": "cls && javac exercicio2.java && java exercicio2",
+      "problemMatcher": []
+    }
+  ]
+}
